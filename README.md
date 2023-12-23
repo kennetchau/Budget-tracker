@@ -45,7 +45,7 @@ Adding the function to change planned amount and show different graphs in the fu
 ## Contact 
 Name: Ming Yin Kenneth Chau 
 
-Email: kennetchau@gmail.com
+Email: kenetx@pm.me
 
 
 
